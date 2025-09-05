@@ -1,7 +1,10 @@
-tensorflow
-keras
+streamlit==1.49.1
+tensorflow==2.15.0
+keras==2.15.0
+numpy<2
+
 pandas 
-numpy 
+
 scikit-learn
 tensorboard
 matplotlib
